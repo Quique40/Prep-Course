@@ -87,7 +87,7 @@ function tieneEmail(usuario) {
   // De lo contratio, devuelve "false"
   // Tu código:
 
-    if(usuario['email']){
+    if(usuario.email){
       return true;
     }
     else{
@@ -116,7 +116,7 @@ function verificarPassword(usuario, password) {
   // De lo contrario, devuelve "false"
   // // Tu código:
 
-  return usuario['password'] === password;
+  return usuario.password === password;
 
 }
 
