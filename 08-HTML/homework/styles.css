@@ -1,0 +1,67 @@
+        #thirDiv{
+            height: 600px;
+            width: 500px;
+            background: slategray;
+            padding: 50px;
+            border: 1rem solid;
+	     
+            margin-left: auto;
+            margin-right: auto;
+
+        }
+
+
+        #imagen{
+            height: 270px;
+            width: 400px;
+
+	    display: flex;
+            align-items: center;
+            justify-content: center;
+	 
+        }
+
+
+        .divClass{
+
+
+	} 
+
+        #spanId{
+            font-size: 18px;
+            margin: 50px;
+
+	    display: flex;
+            align-items: center;
+            justify-content: center;
+
+
+        }
+
+	#link{
+	    display: flex;
+            align-items: center;
+            justify-content: center;
+	
+
+}
+        #titulo{
+            color:blue;
+            font-size: 68px;
+
+	    display: flex;
+            align-items: center;
+            justify-content: center;
+
+	
+        }
+	#body{
+
+	 background: url("https://thumbs.dreamstime.com/b/fondo-de-la-comida-con-lugar-para-el-texto-diferentes-tipos-pasta-tomates-hierbas-setas-huevos-sazonados-gastron%C3%B3mico-un-en-210106522.jpg");
+         background-repeat: no-repeat;
+	 background-size: cover;
+         background-position: center center;
+}
+
+  
+
