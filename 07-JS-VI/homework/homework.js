@@ -32,7 +32,7 @@ function sumarArray(numeros, cb) {
 
   var sumaTotal = numeros.reduce(function(acc,elemento){
     return acc + elemento;
-  });
+  },0);
 
   cb(sumaTotal);
 
